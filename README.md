@@ -165,8 +165,7 @@ Run the project using:
 - Google Colab  
 
 🔗 **Open in Colab:** 
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ETFVsRSJPAfGob540-CZjyEVIFXsXg1f?hl=ar-SY)
+https://colab.research.google.com/drive/1ETFVsRSJPAfGob540-CZjyEVIFXsXg1f?hl=ar-SY
 ---
 
 ---
