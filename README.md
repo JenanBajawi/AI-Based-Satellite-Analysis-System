@@ -108,8 +108,8 @@ EDA was performed to understand patterns in urban expansion.
 Shows classification performance across classes.
 
 
-![LightGBM Confusion Matrix](lightgbm_confusion_matrix.png)
-![XGBoost Confusion Matrix](xgboost_confusion_matrix.png)
+![LightGBM Confusion Matrix](images/lightgbm_confusion_matrix.png)
+![XGBoost Confusion Matrix](images/xgboost_confusion_matrix.png)
 ---
 
 ### ROC Curve
@@ -117,7 +117,7 @@ Shows classification performance across classes.
 Compares model performance.
 
 
-![ROC Curve](roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 ---
 
 ### Feature Importance
