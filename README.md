@@ -96,8 +96,7 @@ EDA was performed to understand patterns in urban expansion.
 - F1-Score  
 - ROC-AUC  
 
-📸 **Screenshots to add:**
-- Train vs Test performance  
+
 
 ---
 
@@ -120,12 +119,6 @@ Compares model performance.
 ![ROC Curve](images/roc_curve.png)
 ---
 
-### Feature Importance
-
-Highlights the most influential features.
-
-📸 Add:
-- Feature importance plot  
 
 ---
 
@@ -172,8 +165,8 @@ Run the project using:
 - Google Colab  
 
 🔗 **Open in Colab:**  
-_Add your link here_
-
+[_Add your link here_
+](https://colab.research.google.com/drive/1ETFVsRSJPAfGob540-CZjyEVIFXsXg1f?hl=ar-SY#scrollTo=TVbiUOU2yEN6)
 ---
 
 ---
