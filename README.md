@@ -117,7 +117,7 @@ Shows classification performance across classes.
 Compares model performance.
 
 📸 Add:
-- ROC curve (XGBoost vs LightGBM)  
+![ROC Curve](images/roc_curve.png)
 
 ---
 
