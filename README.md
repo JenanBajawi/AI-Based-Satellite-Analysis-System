@@ -164,9 +164,9 @@ Run the project using:
 - Jupyter Notebook  
 - Google Colab  
 
-🔗 **Open in Colab:**  
-[_Add your link here_
-](https://colab.research.google.com/drive/1ETFVsRSJPAfGob540-CZjyEVIFXsXg1f?hl=ar-SY#scrollTo=TVbiUOU2yEN6)
+🔗 **Open in Colab:** 
+
+https://colab.research.google.com/drive/1ETFVsRSJPAfGob540-CZjyEVIFXsXg1f?hl=ar-SY#scrollTo=TVbiUOU2yEN6
 ---
 
 ---
