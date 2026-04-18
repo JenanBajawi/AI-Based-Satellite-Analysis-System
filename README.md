@@ -177,4 +177,31 @@ _Add your link here_
 
 ---
 
-## 📂 Project Structure
+---
+
+## 👥 Team Members
+- Jenan Hatim Bajawi  
+- Linda Hussai Alzahrani  
+- Raghad Ahmad Alzahrani  
+- Salam Ali Alghamdi  
+- Khadija Ali Mirza  
+
+---
+
+## 📌 Notes
+
+- Based on satellite imagery data  
+- Uses Machine Learning & Deep Learning  
+- Suitable for smart city applications  
+- Can be extended using advanced deep learning models (CNN-LSTM)  
+
+---
+
+## ⭐ Future Work
+
+- Apply CNN/LSTM for spatiotemporal prediction  
+- Use higher-resolution satellite images  
+- Expand to multiple cities  
+- Real-time monitoring system  
+
+---
