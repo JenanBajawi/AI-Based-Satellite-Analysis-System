@@ -43,9 +43,6 @@ Data preprocessing was applied to prepare satellite and geospatial data for mode
   - Time features (month, year, seasonal encoding)  
   - Spectral indices (NDVI, NDBI, IBI, etc.)  
 
-📸 **Screenshots to add:**
-- Dataset before & after preprocessing  
-- Feature engineering output  
 
 ---
 
@@ -60,9 +57,6 @@ EDA was performed to understand patterns in urban expansion.
 - Spatial & temporal relationships  
 - Urban vs non-urban patterns  
 
-📸 **Screenshots to add:**
-- Histogram plots  
-- Correlation heatmap  
 
 ---
 
